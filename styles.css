@@ -1,0 +1,12 @@
+textarea {
+    width: 80%;
+    height: 150px;
+    border-width: 2px;
+}
+
+button {
+    min-width: 10%;
+    min-height: 50px;
+    font-size: 1em;
+    background: #ffb319;
+}
